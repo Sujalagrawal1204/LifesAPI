@@ -1,1 +1,0 @@
-web: gunicorn LifesAPI.wsgi --log-file -
